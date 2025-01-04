@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.doodler</groupId>
+        <groupId>com.github.paganini2008.doodler</groupId>
         <artifactId>doodler-framework-dependencies</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
@@ -14,14 +14,13 @@
     <packaging>jar</packaging>
     
     <properties>
-    	<shedlock.version>4.30.0</shedlock.version>
     	<feign.version>11.10</feign.version>
 	</properties>
 
     <dependencies>
     
         <dependency>
-            <groupId>com.github.doodler</groupId>
+            <groupId>com.github.paganini2008.doodler</groupId>
             <artifactId>doodler-common-data</artifactId>
         </dependency>
         
