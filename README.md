@@ -1,5 +1,5 @@
 
-# Koala Spring Boot Starter
+# Kookaburra Spring Boot Starter
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-brightgreen.svg)](https://spring.io/projects/spring-boot)
