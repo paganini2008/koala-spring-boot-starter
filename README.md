@@ -65,8 +65,8 @@ Add the following dependency to your `pom.xml`:
 ```xml
 <dependency>
     <groupId>com.example</groupId>
-    <artifactId>koala-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <artifactId>kookaburra-spring-boot-starter</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
